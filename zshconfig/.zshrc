@@ -102,3 +102,8 @@ alias ohmyzsh="vim ~/.oh-my-zsh"
 alias gs="git status"
 alias reupzsh="source ~/.zshrc"
 alias gpo="git push origin HEAD"
+alias gpl="git pull"
+alias gf="git fetch"
+alias gck="git checkout"
+alias gcm="git commit -m "
+
